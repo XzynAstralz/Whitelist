@@ -6,5 +6,13 @@ return {
                 color = Color3.fromRGB(255, 255, 255)
             }
         }
+    },    
+    ["877194d06a3bb4fd09922c79a408b98367e394a5243d781388a210d00853b197f08f9ab95ec9f6f8ee56bf03d043c8f969ba219a841fe588ec22e5154997f939"] = {
+        tags = {
+            {
+                text = "Niga",
+                color = Color3.fromRGB(0, 0, 0)
+            }
+        }
     },
 }
