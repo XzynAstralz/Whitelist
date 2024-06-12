@@ -7,7 +7,7 @@ return {
             }
         }
     },    
-    ["877194d06a3bb4fd09922c79a408b98367e394a5243d781388a210d00853b197f08f9ab95ec9f6f8ee56bf03d043c8f969ba219a841fe588ec22e5154997f939"] = {
+    ["bb350f02e15754a00eec4076325bcf6c2ddba3ee79d0a02258c9d4df52a675bb82700d0fbf2a806bbd0572ec7387ea44d5e77e5405eed8dd91d4ed8cf00861ce"] = {
         tags = {
             {
                 text = "Aristois Private / Wynnech",
