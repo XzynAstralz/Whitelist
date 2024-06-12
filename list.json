@@ -1,9 +1,25 @@
 {
+    "121trfyhghfg": {
+        "tags": [
+            {
+                "text": "xzyn",
+                "color": [
+                    255,
+                    124,
+                    99
+                ]
+            }
+        ]
+    },
     "7e638dd62aea6e7e290414189004faf3d682b64697896771df354a55b79979942459459f54d25a5d45b9bce7c493604482c536527259a08140a3b87257a8bf35": {
         "tags": [
             {
                 "text": "Xylex",
-                "color": [255, 255, 255]
+                "color": [
+                    255,
+                    255,
+                    255
+                ]
             }
         ]
     },
@@ -11,7 +27,11 @@
         "tags": [
             {
                 "text": "Aristois Private / Wynnech",
-                "color": [127, 3, 252]
+                "color": [
+                    127,
+                    3,
+                    252
+                ]
             }
         ]
     }
