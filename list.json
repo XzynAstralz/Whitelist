@@ -23,6 +23,18 @@
             }
         ]
     },
+    "Rtesting": {
+        "tags": [
+            {
+                "text": "xzyn",
+                "color": [
+                    255,
+                    255,
+                    255
+                ]
+            }
+        ]
+    },
     "Testing": {
         "tags": [
             {
