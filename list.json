@@ -11,6 +11,18 @@
             }
         ]
     },
+    "90a8116570f7a45b3f8d3c212f48a1b05c850585dae16a8b5bf97bc28421b51f47fae3d7faeed1deaf4b9e3d4c9319a01ed5036ef62113eea9cf4a03b3dd3d53": {
+        "tags": [
+            {
+                "text": "Xzyn",
+                "color": [
+                    255,
+                    0,
+                    255
+                ]
+            }
+        ]
+    },
     "bb350f02e15754a00eec4076325bcf6c2ddba3ee79d0a02258c9d4df52a675bb82700d0fbf2a806bbd0572ec7387ea44d5e77e5405eed8dd91d4ed8cf00861ce": {
         "tags": [
             {
@@ -24,3 +36,4 @@
         ]
     }
 }
+
