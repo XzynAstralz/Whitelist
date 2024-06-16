@@ -26,7 +26,7 @@
         ]
     },
     "64c5b55f2137e5c58aec10e4f9fd475dd927cbab2125c19160dbfad74a7dd83d25262719d428e40ec9d32e91e6bf1d1492c2877b3b79057455d7f210f43dce89": {
-        "attackable": false,
+        "attackable": true,
         "tags": [
             {
                 "text": "Aristois Private / Wynnech",
