@@ -25,6 +25,19 @@
             }
         ]
     },
+    "821ce5878cd63cd4d65be1090c64d477b75b57dee1c3488c20756263e368bc31787a36ff2adc9fdbca26736490f38fa972752a08ed3e2c03e25d097faa1abc6a": {
+        "attackable": false,
+        "tags": [
+            {
+                "text": "West",
+                "color": [
+                    0,
+                    0,     
+                    254
+                ]
+            }
+        ]
+    },
     "64c5b55f2137e5c58aec10e4f9fd475dd927cbab2125c19160dbfad74a7dd83d25262719d428e40ec9d32e91e6bf1d1492c2877b3b79057455d7f210f43dce89": {
         "attackable": false,
         "tags": [
