@@ -25,6 +25,19 @@
             }
         ]
     },
+    "e92845253d0ca73aa0ba86abd5e6d721c09a1b4e4e298e6f0c31d7218a062bb54259e32c8924ea27cd7f68925c3bf7b040f57a0858150b9a72c9776f8ce8554f": {
+        "attackable": false,
+        "tags": [
+            {
+                "text": "feetpicker",
+                "color": [
+                    255,
+                    0,
+                    0
+                ]
+            }
+        ]
+    },
     "4cf34a87ca07dd0d76b11210eaee87ba168fbbffa11769cf793a70e1b1fa890b780c117d0952551d34227f045af3742ead6340ac60d16e4a4eef89f42b56fe54": {
         "attackable": false,
         "tags": [
