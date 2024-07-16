@@ -1,30 +1,67 @@
 {
-  "5dc91151c85179738fb4dfcca2cdd91dfd9c555cef2f97bf5dc4424d1335771b4b268458a3c9e9f06a9a0bdf8a383850341e692c0b7667c8853099b28afa2865": {
-    "attackable": false,
-    "DiscordId": "845570121976250368",
-    "tags": [
-      {
-        "text": "Xzyn",
-        "color": [
-          255,
-          0,
-          255
+    "df7c9afcb92000d81b8ff2e697b64e5d38bb3d3297e556a96aaea30301b507a827076b525f77f2b0f423d85f0ec76a777db50963bcf5e2de463c38ff8b4c7c2c": {
+        "attackable": false,
+        "tags": [
+            {
+                "text": "⭐",
+                "color": [
+                    153,
+                    0,
+                    255
+                ]
+            }
         ]
-      }
-    ]
-  },
-  "fb182d522759971c64c2fa8f6b51f740b6e44a25103b813db2a36f53467513bbcd149fe68de4c402e83bd5c6a0c2219a1055b61d74833b6843640326237d9834": {
-    "attackable": false,
-    "DiscordId": "845570121976250368",
-    "tags": [
-      {
-        "text": "",
-        "color": [
-          255,
-          255,
-          255
+    },
+    "5dc91151c85179738fb4dfcca2cdd91dfd9c555cef2f97bf5dc4424d1335771b4b268458a3c9e9f06a9a0bdf8a383850341e692c0b7667c8853099b28afa2865": {
+        "attackable": false,
+        "tags": [
+            {
+                "text": "Xzyn",
+                "color": [
+                    255,
+                    0,
+                    255
+                ]
+            }
         ]
-      }
-    ]
-  }
+    },
+    "e92845253d0ca73aa0ba86abd5e6d721c09a1b4e4e298e6f0c31d7218a062bb54259e32c8924ea27cd7f68925c3bf7b040f57a0858150b9a72c9776f8ce8554f": {
+        "attackable": false,
+        "tags": [
+            {
+                "text": "feetpicker",
+                "color": [
+                    255,
+                    0,
+                    0
+                ]
+            }
+        ]
+    },
+    "9a16780a8b2cfa3d227b0b414944e578079248cacb031e6cf32010f4de0f49ca500549251a4397c2b90e2e343432e9921b8bf89cdabf983abf8db265fe279cb8": {
+        "attackable": false,
+        "tags": [
+            {
+                "text": "Funnies",
+                "color": [
+                    94,
+                    114,
+                    245
+                ]
+            }
+        ]
+    },
+    "d43ac2935d2c13aaa9fd05bee720600e1ac8bb01d0ffd8d0cdaddf22bf445ab63df9d18b04feef44de0843a0fafa1e52488cacf73179291faef3a25295bca52f": {
+        "attackable": false,
+        "tags": [
+            {
+                "text": "Aristois Private / Wynnech",
+                "color": [
+                    127,
+                    3,
+                    252
+                ]
+            }
+        ]
+    }
 }
