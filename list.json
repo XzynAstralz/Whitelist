@@ -1,17 +1,4 @@
 {
-    "df7c9afcb92000d81b8ff2e697b64e5d38bb3d3297e556a96aaea30301b507a827076b525f77f2b0f423d85f0ec76a777db50963bcf5e2de463c38ff8b4c7c2c": {
-        "attackable": false,
-        "tags": [
-            {
-                "text": "⭐",
-                "color": [
-                    153,
-                    0,
-                    255
-                ]
-            }
-        ]
-    },
     "5dc91151c85179738fb4dfcca2cdd91dfd9c555cef2f97bf5dc4424d1335771b4b268458a3c9e9f06a9a0bdf8a383850341e692c0b7667c8853099b28afa2865": {
         "attackable": false,
         "tags": [
@@ -21,45 +8,6 @@
                     255,
                     0,
                     255
-                ]
-            }
-        ]
-    },
-    "e92845253d0ca73aa0ba86abd5e6d721c09a1b4e4e298e6f0c31d7218a062bb54259e32c8924ea27cd7f68925c3bf7b040f57a0858150b9a72c9776f8ce8554f": {
-        "attackable": false,
-        "tags": [
-            {
-                "text": "feetpicker",
-                "color": [
-                    255,
-                    0,
-                    0
-                ]
-            }
-        ]
-    },
-    "58f12ee64b571eeb5cb50a9bfb998c78298133c6093e56fe17ffc99d529e20e9a54f6d6f45f93a580a433bb3dc0d73152ecf37e4e47781ff0431698f98e17995": {
-        "attackable": false,
-        "tags": [
-            {
-                "text": "Funnies",
-                "color": [
-                    94,
-                    114,
-                    245
-                ]
-            }
-        ]
-    },
-    "d43ac2935d2c13aaa9fd05bee720600e1ac8bb01d0ffd8d0cdaddf22bf445ab63df9d18b04feef44de0843a0fafa1e52488cacf73179291faef3a25295bca52f": {
-        "attackable": false,
-        "tags": [
-            {
-                "text": "Aristois Private / Wynnech",
-                "color": [
-                    127,
-                    3,
-                    252
                 ]
             }
         ]
