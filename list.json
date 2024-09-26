@@ -12,7 +12,7 @@
             }
         ]
     },
-    "edf6cf83a1189a90cbdb1987dde40e57443cab98f58d15e5d8f483a8115ce10208a09371569999fae5d6704566e74ac99ec58503b85dede357dbd0c5c2cd9f59": {
+    "ea1c477611bbf98d5a554d5ae9c5ada7b3e89e47d283505fac79195b70ebdde077d1332a1b8fe1daddbdec2e5ccc000fe44b8dc37ad5dca2779a8d04e65496b7": {
         "attackable": false,
         "tags": [
             {
@@ -20,7 +20,7 @@
                 "color": [
                     255,
                     0,
-                    255
+                    0
                 ]
             }
         ]
