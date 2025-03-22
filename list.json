@@ -1,4 +1,20 @@
 {
+  "name": "list.json",
+  "path": "list.json",
+  "sha": "28286d5c6c14fc72ad72e5874c7cf38813d83d68",
+  "size": 166,
+  "url": "https://api.github.com/repos/XzynAstralz/Whitelist/contents/list.json?ref=main",
+  "html_url": "https://github.com/XzynAstralz/Whitelist/blob/main/list.json",
+  "git_url": "https://api.github.com/repos/XzynAstralz/Whitelist/git/blobs/28286d5c6c14fc72ad72e5874c7cf38813d83d68",
+  "download_url": "https://raw.githubusercontent.com/XzynAstralz/Whitelist/main/list.json",
+  "type": "file",
+  "content": "ewogICJmYjE4MmQ1MjI3NTk5NzFjNjRjMmZhOGY2YjUxZjc0MGI2ZTQ0YTI1\nMTAzYjgxM2RiMmEzNmY1MzQ2NzUxM2JiY2QxNDlmZTY4ZGU0YzQwMmU4M2Jk\nNWM2YTBjMjIxOWExMDU1YjYxZDc0ODMzYjY4NDM2NDAzMjYyMzdkOTgzNCI6\nIHsKICAgICJuYW1lIjogInh6eW44NjM1IgogIH0KfQ==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/XzynAstralz/Whitelist/contents/list.json?ref=main",
+    "git": "https://api.github.com/repos/XzynAstralz/Whitelist/git/blobs/28286d5c6c14fc72ad72e5874c7cf38813d83d68",
+    "html": "https://github.com/XzynAstralz/Whitelist/blob/main/list.json"
+  },
   "fb182d522759971c64c2fa8f6b51f740b6e44a25103b813db2a36f53467513bbcd149fe68de4c402e83bd5c6a0c2219a1055b61d74833b6843640326237d9834": {
     "name": "xzyn8635"
   }
